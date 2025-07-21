@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/bin/Debug/net7.0/Poly
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/bin/Debug/net7.0/Poly.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/bin/Debug/net7.0/Poly.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/bin/Debug/net7.0/Poly.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/bin/Debug/net7.0/Poly.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/refint/Poly.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/Poly.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Polymorphism/Poly/obj/Debug/net7.0/ref/Poly.dll
