@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/bin/Debug/net7.0/Encapsulation.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/refint/Encapsulation.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/Encapsulation.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Encapsulation/Encapsulation/obj/Debug/net7.0/ref/Encapsulation.dll

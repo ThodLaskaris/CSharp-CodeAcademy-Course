@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/bin/Debug/net7.0/Inheritance_App
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/bin/Debug/net7.0/Inheritance_App.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/bin/Debug/net7.0/Inheritance_App.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/bin/Debug/net7.0/Inheritance_App.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/bin/Debug/net7.0/Inheritance_App.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/refint/Inheritance_App.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/Inheritance_App.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Inheritance/Inheritance_App/obj/Debug/net7.0/ref/Inheritance_App.dll

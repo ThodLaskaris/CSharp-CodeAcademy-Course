@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
