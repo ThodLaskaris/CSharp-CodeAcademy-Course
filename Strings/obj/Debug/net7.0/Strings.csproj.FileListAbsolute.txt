@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/bin/Debug/net7.0/Strings
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/bin/Debug/net7.0/Strings.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Strings/obj/Debug/net7.0/ref/Strings.dll
