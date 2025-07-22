@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/bin/Debug/net7.0/RefTypes
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/bin/Debug/net7.0/RefTypes.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/bin/Debug/net7.0/RefTypes.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/bin/Debug/net7.0/RefTypes.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/bin/Debug/net7.0/RefTypes.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/refint/RefTypes.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/RefTypes.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/RefTypes/obj/Debug/net7.0/ref/RefTypes.dll
