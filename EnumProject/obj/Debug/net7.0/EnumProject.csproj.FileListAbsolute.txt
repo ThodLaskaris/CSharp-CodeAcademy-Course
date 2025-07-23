@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/bin/Debug/net7.0/EnumProject
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/bin/Debug/net7.0/EnumProject.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/bin/Debug/net7.0/EnumProject.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/bin/Debug/net7.0/EnumProject.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/bin/Debug/net7.0/EnumProject.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/refint/EnumProject.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/EnumProject.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/EnumProject/obj/Debug/net7.0/ref/EnumProject.dll
