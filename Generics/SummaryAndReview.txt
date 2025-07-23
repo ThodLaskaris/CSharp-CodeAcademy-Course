@@ -1,0 +1,25 @@
+C# GENERICS
+Summary and Review
+2 min
+Congratulations on completing this lesson on C# generics. Let’s review the key points we’ve covered in this lesson:
+
+Generics enable the creation of classes, methods, and data structures that can operate with any data type.
+Generics are often used for collection classes and interfaces. The System.Collections.Generic namespace offers many built-in classes and interfaces for dealing with generic collections.
+Generic type parameters are specified by including the type parameter in angle brackets (<...>) after the name of the class, interface, or method.
+Generic classes provide type safety by allowing you to specify the data type they operate on.
+Generic methods can specify the type of data they take as parameters or returns. They can be implemented inside generic or non-generic classes.
+The default keyword is used to return a default value of a parameterized type.
+Generic interfaces, like generic classes, define methods and properties that can operate on different data types depending on the type parameter.
+Constraints are used to restrict the types that can be used as arguments for a generic type parameter:
+The class constraint specifies that the type argument must be a reference type.
+The struct constraint specifies that the type argument must be a value type.
+The new() constraint specifies that the type argument must have a parameterless constructor.
+A base class constraint ensures that the type argument inherits from a specific base class.
+An interface constraint ensures that the type argument implements a specific interface.
+We can apply multiple constraints to a single generic type parameter by combining various types of constraints with the following restrictions:
+struct and class constraints must be first.
+new() must be last.
+Only one base class constraint is allowed.
+The struct and new() constraints can’t be combined.
+The class and struct constraints can’t be combined.
+Covariance and contravariance allow for implicit reference conversion for generic type parameters.
