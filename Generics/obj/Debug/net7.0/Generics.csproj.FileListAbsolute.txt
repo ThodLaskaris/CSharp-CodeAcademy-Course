@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/bin/Debug/net7.0/Generics
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/bin/Debug/net7.0/Generics.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/bin/Debug/net7.0/Generics.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/bin/Debug/net7.0/Generics.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/bin/Debug/net7.0/Generics.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/refint/Generics.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/Generics.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Generics/obj/Debug/net7.0/ref/Generics.dll

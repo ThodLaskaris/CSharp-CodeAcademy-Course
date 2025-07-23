@@ -46,6 +46,7 @@ class Program
     // Parse a string to enum.
 
     string passingExpense = "Travel|Software";
+    
     if (Enum.TryParse<ExpenseType>(passingExpense, ignoreCase: true, out ExpenseType parsedExpense))
     {
       Console.WriteLine($"Parsed Expense Type: {parsedExpense}");
