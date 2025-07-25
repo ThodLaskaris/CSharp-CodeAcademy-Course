@@ -8,6 +8,11 @@ class Program
     {
 
     }
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="password"></param>
+    /// <exception cref="InvalidPasswordException"></exception>
     public static void ValidatePassword(string password)
     {
       if (password.Length < 8)
