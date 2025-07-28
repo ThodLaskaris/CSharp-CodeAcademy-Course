@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/bin/Debug/net7.0/Delegates
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/bin/Debug/net7.0/Delegates.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/bin/Debug/net7.0/Delegates.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/bin/Debug/net7.0/Delegates.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/bin/Debug/net7.0/Delegates.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/refint/Delegates.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/Delegates.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Delegates/obj/Debug/net7.0/ref/Delegates.dll
