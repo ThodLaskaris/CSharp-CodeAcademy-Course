@@ -1,0 +1,13 @@
+Review
+Congratulations! In this lesson on C# events, we’ve learned:
+
+That events are a way to design our system around interactions or occurrences, allowing for dynamic and responsive programs.
+The publisher-subscriber model is where the publisher raises events, and the subscriber handles them.
+How to declare, raise, and subscribe to events in C#.
+The standard event pattern simplifies event handling using the EventHandler delegate.
+How to create custom event arguments to pass additional information to subscribers.
+How to use events in 
+interfaces
+Preview: Docs Loading link description
+.
+We’re now ready to implement event-driven programming in our C# projects!
