@@ -1,0 +1,72 @@
+Congratulations on completing this lesson on File I/O in C#! We’ve learned:
+
+The Stream class provides the foundation for all I/O operations as a sequential flow of bytes, supporting operations like reading, writing, and seeking.
+The Stream class is an abstract class that provides a common interface for all streams such as FileStream, CryptoStream, and NetworkStream.
+The FileStream class provides an implementation of Stream for file operations. FileStream operations include reading, writing, and seeking within a file. The instantiation of a FileStream object requires a file path, FileMode, and FileAccess parameters, which can open or create files for reading, writing, or both.
+FileStream fs = new FileStream("output.txt", FileMode.OpenOrCreate, FileAccess.Write);
+
+Copy to Clipboard
+
+FileStream is often used in a using statement to ensure proper resource management. The using statement automatically disposes of the FileStream object when it goes out of scope.
+using (FileStream fs = new FileStream("input.txt", FileMode.Open, FileAccess.Read))
+{
+  // File operations performed here
+}
+
+Copy to Clipboard
+
+A FileStream is resource-intensive and needs to be carefully managed. If not in a using statement, the Dispose() method should be called to release resources.
+try {
+  FileStream fs = new FileStream("input.txt", FileMode.Open, FileAccess.Read);
+  // File operations performed here
+} finally {
+  fs.Dispose();
+}
+
+Copy to Clipboard
+
+FileStream reading operations involve reading bytes from a file into memory using 
+methods
+Preview: Docs Loading link description
+ like Read() and ReadByte().
+byte[] buffer = new byte[1024];
+int bytesRead = fs.Read(buffer, 0, buffer.Length);
+
+Copy to Clipboard
+
+FileStream writing operations involve writing bytes from memory to a file using methods like Write() and WriteByte().
+byte[] data = new byte[] { 1, 2, 3, 4, 5 };
+fs.Write(data, 0, data.Length);
+
+Copy to Clipboard
+
+FileStream seeking operations allow navigation within a file using methods like Seek() and SetLength().
+fs.Seek(10, SeekOrigin.Begin); // Move the position to 10 bytes from the beginning
+fs.SetLength(fs.Position); // Truncate the file to the current Position
+
+Copy to Clipboard
+
+Common File I/O exceptions include FileNotFoundException, UnauthorizedAccessException, and IOException. Proper exception handling is essential for robust file operations.
+The File class provides static methods for common file operations while FileInfo provides an object-oriented alternative for repeated operations.
+File.WriteAllText("output.txt", "Hello, World!");
+FileInfo fileInfo = new FileInfo("output.txt");
+long fileSize = fileInfo.Length;
+
+Copy to Clipboard
+
+While the FileStream class is useful for reading and writing streams of bytes, the StreamReader and StreamWriter 
+classes
+Preview: Docs Loading link description
+provide higher-level text-based operations for reading and writing text files.
+using (StreamReader sr = new StreamReader(fs, Encoding.UTF8))
+{
+  string line;
+  while ((line = sr.ReadLine()) != null)
+  {
+    Console.WriteLine(line);
+  }
+}
+
+Copy to Clipboard
+
+With these classes and concepts in mind, we should be able to effectively read, write, and manage files in C#. Great job on completing this lesson!
