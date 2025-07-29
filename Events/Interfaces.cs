@@ -44,5 +44,6 @@ public class Program
     var subscriber = new SensorSubscriber();
     sensor.SensorTriggered += subscriber.HandleSensorTriggered;
     sensor.TakeReading(98.6);
+
   }
 }

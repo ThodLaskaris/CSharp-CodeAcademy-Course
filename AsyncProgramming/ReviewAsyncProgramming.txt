@@ -1,0 +1,11 @@
+We’ve completed the fundamentals of asynchronous programming in C#. In this lesson, we’ve covered the following:
+
+The Task-based Asynchronous Pattern (TAP) model
+Creating asynchronous methods with the async keyword
+The Task and Task<T> objects
+Using the await keyword to wait for tasks to complete in a non-blocking manner
+Returning a value from a Task<T> object when it completes
+Launching tasks concurrently, and how to await multiple tasks using Task.WhenAll() and Task.WhenAny()
+The special considerations regarding exceptions in asynchronous code
+Implementing cancellation in asynchronous methods by using a CancellationToken
+Common pitfalls in asynchronous programming
