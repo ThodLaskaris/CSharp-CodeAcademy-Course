@@ -1,0 +1,15 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/bin/Debug/net7.0/Iterators
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/bin/Debug/net7.0/Iterators.deps.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/bin/Debug/net7.0/Iterators.runtimeconfig.json
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/bin/Debug/net7.0/Iterators.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/bin/Debug/net7.0/Iterators.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/refint/Iterators.dll
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.pdb
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/Iterators.genruntimeconfig.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/Iterators/obj/Debug/net7.0/ref/Iterators.dll
