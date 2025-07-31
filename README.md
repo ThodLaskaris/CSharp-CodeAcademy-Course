@@ -11,6 +11,6 @@ This repository contains lessons,projects, and code examples for a complete C# c
 
 Use this repository to study each topic, practice with quizzes, and apply your knowledge through projects.
 
--[CodeAcademy C# Course] ```http://codecademy.com/learn/learn-intermediate-c-sharp```
--[CodeWars Profile] ``` https://www.codewars.com/users/DixonGRE```
+- [CodeAcademy C# Course](http://codecademy.com/learn/learn-intermediate-c-sharp)  
+- [CodeWars Profile](https://www.codewars.com/users/DixonGRE)
 
