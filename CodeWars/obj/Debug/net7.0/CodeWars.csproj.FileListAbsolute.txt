@@ -1,0 +1,5 @@
+/Users/thodlaskaris/Desktop/CSharp_Projects/CodeWars/obj/Debug/net7.0/CodeWars.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/CodeWars/obj/Debug/net7.0/CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Desktop/CSharp_Projects/CodeWars/obj/Debug/net7.0/CodeWars.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Desktop/CSharp_Projects/CodeWars/obj/Debug/net7.0/CodeWars.AssemblyInfo.cs
+/Users/thodlaskaris/Desktop/CSharp_Projects/CodeWars/obj/Debug/net7.0/CodeWars.csproj.CoreCompileInputs.cache
