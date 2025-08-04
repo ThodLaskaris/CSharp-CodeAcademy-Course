@@ -8,6 +8,10 @@ class ArrayMethods
     {
       return num % 2 == 0;
     }
+    public static bool isOdd(int num)
+    {
+      return num % 2 != 0;
+    }
     bool hasEvenNumber = Array.Exists(numbers, isEven);
   }
   /*
